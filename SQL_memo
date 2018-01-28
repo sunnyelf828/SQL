@@ -1,7 +1,0 @@
-在您的网站中使用 SQL
-要创建发布数据库中数据的网站，您需要以下要素：
-
-RDBMS 数据库程序（比如 MS Access, SQL Server, MySQL）
-服务器端脚本语言（比如 PHP 或 ASP）
-SQL
-HTML / CSS
